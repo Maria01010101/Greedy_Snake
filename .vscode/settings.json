@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "core.hpp": "c",
+        "iostream": "c",
+        "ostream": "cpp"
+    }
+}
